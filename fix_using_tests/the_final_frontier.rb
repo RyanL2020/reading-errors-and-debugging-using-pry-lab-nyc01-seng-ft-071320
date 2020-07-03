@@ -14,3 +14,4 @@ def engage(star_date)
   date = generate_star_date
   puts "Captain's Log, star date #{star_date}."
 end
+binding.pry 
